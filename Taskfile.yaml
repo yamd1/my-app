@@ -1,0 +1,10 @@
+version: '3'
+
+set:
+  - errexit
+  - nounset
+  - pipefail
+
+tasks:
+  dev:
+    - npm run dev

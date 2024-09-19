@@ -1,0 +1,5 @@
+registries:
+  - type: standard
+    ref: v4.162.0
+packages:
+  - name: go-task/task@v3.36.0
